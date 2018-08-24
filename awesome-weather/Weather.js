@@ -3,6 +3,7 @@ import {StyleSheet, Text, View} from 'react-native';
 import {LinearGradient} from "expo";
 import {MaterialCommunityIcons} from "@expo/vector-icons";
 import PropTypes from "prop-types";
+import { map } from 'rsvp';
 
 // export default class Weather extends Component {
 //     render(){
